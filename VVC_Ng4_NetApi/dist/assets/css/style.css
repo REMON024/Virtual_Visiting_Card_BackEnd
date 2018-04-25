@@ -1,0 +1,125 @@
+body {
+  background: #67768B;
+}
+#new-request-body{
+  margin-top:50px;
+}
+
+#users-body{
+  margin-top:50px; 
+}
+#card-request tr:hover {
+  background: rgb(44, 62, 80);
+  color:white;
+}
+#card-request table {
+  align-content: center;
+  color:black;
+}
+#card-request h3 {
+  text-align: center;
+  color:black;
+}
+
+#navbar123 {
+  margin: 0;
+}
+
+#wallet .row {
+  margin-bottom: 20px;
+}
+
+#home-user {
+  background: url('../card3.jpeg') no-repeat top;
+  background-size: cover;
+  min-height: 700px;
+  top: 0;
+}
+
+#home-user .vertical-align {
+  align-items: bottom;
+}
+
+#home-user .btn {
+  margin-right: 10px;
+}
+
+#home-user .dark-overlay {
+  background-color: rgba(44, 62, 80, 0.5);
+  color: white;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+}
+
+#home-user .row {
+  margin-top: 250px;
+  text-align: center;
+}
+
+#home-org {
+  position: relative;
+  background-image: url('../card1.jpeg');
+  min-height: 700px;
+}
+
+#home-org .dark-overlay {
+  background-color: rgba(44, 62, 80, 0.7);
+  color: papayawhip;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+}
+
+#home-org .row {
+  margin-top: 250px;
+  text-align: center;
+}
+
+#notfound-section {
+  margin-top: 250px;
+}
+
+#notfound-section .fa {
+  font-size: 100px;
+}
+
+#wallet-section {
+  margin-top: 100px;
+}
+
+#mycard-section {
+  margin-top: 100px;
+}
+
+#card-request {
+  margin-top: 100px;
+}
+
+#change-password-section {
+  margin-top: 100px;
+}
+
+#admin-navbar {
+  margin: 0px;
+}
+
+
+#card-design-section{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+#apply-card{
+  margin-top: 100px;
+}
+
+#find-card-section{
+  margin-top: 100px;
+}
+
+#admin-body{
+  margin-top: 100px;
+}
